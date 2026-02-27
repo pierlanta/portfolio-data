@@ -20,13 +20,15 @@ Identify which given factors most strongly drive high insurance expenses to guid
 
 
 
-*Screenshot of the Power BI dashboard showing key metrics*
+![Power BI Picture](images/power%20bi%20picture.JPG)
 
 ---
 
 ## Expense summary analysis
 
 **Ranked by highest expense contribution:**
+
+![Higher Expense Contributor Ed](images/higher%20expense%20contributor%20ed.JPG)
 
 **Top 3 in order are:**
 - **Smoker Status**
@@ -42,17 +44,28 @@ Identify which given factors most strongly drive high insurance expenses to guid
 
 Smoking is the determinant for higher expenses
 
+
+![Smoker Effect](images/smoker%20effect.JPG)
+
+
 Smoking increases claim expenses by 280%
 
+![Smoking Percentage Increase](images/smoking%20percentage%20increase.JPG)
 
 
 ---
 
 ## BMI and Age groups contributors analysis
 
+
 BMIs catergorized as Overweight and Obesity has the highest count of high expenses and average expense
 
+![BMI Complete](images/bmi%20complete.JPG)
+
+
 Older age have a higher average expense
+
+![Age Group Complete](images/age%20group%20complete.JPG)
 
 
 ---
