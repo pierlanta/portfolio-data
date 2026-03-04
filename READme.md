@@ -10,6 +10,10 @@ Claims cost the insurance company expenses.
 
 Demographic, lifestyle and health dataset for a life insurance company. Includes Age, Sex, Children, BMIs, Smoke behavior, Region
 
+
+![old dataset](images/old%20dataset.JPG)
+
+
 ## Methodology
 
 Identify which given factors most strongly drive high insurance expenses to guide pricing and risk management decisions.
@@ -23,6 +27,8 @@ Identify which given factors most strongly drive high insurance expenses to guid
 **Raw data** [Download Data](https://www.kaggle.com/code/jacopoferretti/analysis-of-insurance-premiums-with-predictions/input)
 
 ## Problem Statement
+
+Over 20% of policyholders fall into the 'Highest' expense category. The company must develop an analytical framework to reduce this share by at least 5-10% over the next three years through risk quantification, expense forecasting, and preventive programs.
 
 ---
 
