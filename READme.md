@@ -36,7 +36,7 @@ Over 20% of policyholders fall into the 'Highest' expense category. The company 
 
 
 
-![Power BI Picture](images/power%20bi%20picture.JPG)
+![PowerBI 2 ](images/powerbi%202.JPG)
 
 ---
 
@@ -94,10 +94,11 @@ Older age have a higher average expense
 
 - Smoking as a habit is the highest expense contributor almost double the next in ranking
 
+![Average Expenses](images/average%20expenses.JPG)
 
 ---
 ## Recommendations
-- Charge the clients who smokes 280% more for their premium payments as anticipation of expenses as a risk-based adjustment.
+- Charge the clients who smokes 200% more for their premium payments as anticipation of expenses as a risk-based adjustment.
   
 - Increase premium amount for clients who are older, have high bmi and who smokes accordingly as a risk-based adjustment for higher expenses.
  
