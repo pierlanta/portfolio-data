@@ -94,6 +94,9 @@ Older age have a higher average expense
 
 - Smoking as a habit is the highest expense contributor almost double the next in ranking
 
+- Age group of 60+. Smoker and obese increases expenses by 252%
+
+
 ![Average Expenses](images/average%20expenses.JPG)
 
 ---
