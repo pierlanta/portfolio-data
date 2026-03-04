@@ -1,6 +1,18 @@
-# Insurance Claims Cost Analysis
+# Quick overview
+
+You are a data analyst for a life insurance company, the company serves its clients by covering parts of their medical expenses, this is called a **“claim”**, in turn the client pays you periodically so they continue to have their insurance coverage. This payments is called **“premium”**. 
+Claims cost the insurance company expenses.
+
+
+
+## Insurance claims cost analysis
+
 
 Demographic, lifestyle and health dataset for a life insurance company. Includes Age, Sex, Children, BMIs, Smoke behavior, Region
+
+## Methodology
+
+Identify which given factors most strongly drive high insurance expenses to guide pricing and risk management decisions.
 
 **Tools/Software used**
 
@@ -11,8 +23,6 @@ Demographic, lifestyle and health dataset for a life insurance company. Includes
 **Raw data** [Download Data](https://www.kaggle.com/code/jacopoferretti/analysis-of-insurance-premiums-with-predictions/input)
 
 ## Problem Statement
-
-Identify which given factors most strongly drive high insurance expenses to guide pricing and risk management decisions.
 
 ---
 
